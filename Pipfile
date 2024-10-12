@@ -15,6 +15,7 @@ pyyaml = "*"
 scikit-learn = "*"
 scipy = "*"
 tqdm = "*"
+cookiecutter-data-science = "*"
 
 [dev-packages]
 
