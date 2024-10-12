@@ -16,3 +16,5 @@ __pycache__
 
 # Venv
 dvc-venv
+Pipfile.lock
+
